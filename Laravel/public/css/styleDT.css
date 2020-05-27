@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    position: relative;
+    margin-top: 50px;
+    color: black;
+    font-size: 20px;
+    /* font-weight: bold; */
+    width: 40%;
+    background-image: url("../img/bgD.jfif");
+    padding: 50px 50px;
+}
+.container p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.form-group select{
+    margin-left: 20px;
+    width: 100px;
+}
